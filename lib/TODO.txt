@@ -1,0 +1,47 @@
+List what all changes needs to be done in app including UI(Ui what kind of changes required) -->
+
+The color combination of the app can be improved. Instead of using random colors like
+violet widgets in the Shop List section and random yellow, red, and blue colors in the
+Category List section, a proper color theme should be implemented to make this app look
+more elegant and trustworthy.
+In the shop list section, shops can be classified into various genres such as electronic
+gadgets, clothes & accessories, appliances, toys, etc.Each genre will have a list of shops
+that fall under it, making it easier for users to navigate and find what they are looking for.
+This classification system helps users to quickly locate the type of shops they are
+interested in and streamlines the shopping experience.
+In the profile page, the icons need to be changed. Relatable icons will make the overall
+user experience more intuitive and visually appealing. It need to be ensured that the
+icons are consistent in style and color scheme for a cohesive look.
+The rating feature in the product details section may be confused with the 'wishlist'
+feature. The 'heart shape' icon does not accurately represent a rating feature, a star icon
+or something similar would be more appropriate. It is important for the design team to
+consider this confusion and make necessary adjustments to ensure a clear distinction
+between the rating and wishlist features. This could include changing the icon to better
+represent the rating feature, such as using stars or a thumbs up symbol. By making these
+changes, users will have a more intuitive experience navigating the product details
+section.
+In the carousel slider, the heart shaped icon isn’t functioning.This should be taken care
+of.
+A voice search option & visual search option can be added in the search bar which will
+make it more user-friendly and convenient for users to find what they are looking for
+quickly and easily.
+In this app, a red button is used for 'Buy Now', 'Check out', and multiple times on the
+payment pages. However, red color does not symbolize safety or security.Therefore, it
+might be beneficial to consider a more appropriate color scheme that aligns with trust
+and security, such as a calming green or a reassuring blue. These subtle adjustments can
+greatly improve the overall user experience and inspire more confidence in the payment
+process.
+The boring font style need to be cared for this app.The font style is crucial for user
+experience and readability. It should be visually appealing and easy on the eyes to ensure
+users can navigate the app effortlessly. A boring font can make the app seem
+unprofessional and uninviting. It's important to choose a font that matches the overall
+design aesthetic and enhances the user interface.
+A social sharing option can be implemented in the product details section. It allows users
+to share products or their shopping experience on social media platforms, increasing
+visibility and engagement.
+
+suggested ones -->
+Text alignment in every pages should be changed there may be slight overflowed in some pages.
+Need to change design in homepage and more data in homepage. 
+State Manage required to separate the business logic from Ui and data. (Provider or bloc state management should be used)
+For improving user experience there should be more loading icons or tect should be used to avoid blank screen when loading.(progress bar)
